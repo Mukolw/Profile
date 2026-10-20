@@ -1,4 +1,4 @@
-# Alex Morgan — Portfolio
+# Stephen Mukolwe — Portfolio
 
 A polished, responsive personal portfolio starter built with React and Vite. It uses a light blue palette and includes an introduction, about and skills, selected projects, and a contact call to action. No API keys or paid services are required.
 
